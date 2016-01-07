@@ -14,6 +14,7 @@ also be used to block specific domains on a Windows system.
 
 ## Screenshots
 ![Host Editor by Afaan Bilal](https://afaan.ml/screenshots/Host-Editor.jpg "Host Editor by Afaan Bilal")
+  
 ![Host Editor by Afaan Bilal](https://afaan.ml/screenshots/Host-Editor-About.jpg "Host Editor by Afaan Bilal")
 
 ## Contributing
