@@ -12,6 +12,10 @@ Author URL: **[Google+](https://google.com/+AfaanBilal)**
 using the Windows HOSTS file. It is extremely useful for local development. It may
 also be used to block specific domains on a Windows system.
 
+## Screenshots
+![Host Editor by Afaan Bilal](https://afaan.ml/screenshots/Host-Editor.jpg "Host Editor by Afaan Bilal")
+![Host Editor by Afaan Bilal](https://afaan.ml/screenshots/Host-Editor-About.jpg "Host Editor by Afaan Bilal")
+
 ## Contributing
 All contributions are welcome. Please create an issue first for any feature request
 or bug. Then fork the repository, create a branch and make any changes to fix the bug 
