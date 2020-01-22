@@ -13,8 +13,6 @@ also be used to block specific domains on a Windows system.
 
 ## Screenshots
 ![Host Editor by Afaan Bilal](https://afaanbilal.github.io/screenshots/Host-Editor.jpg "Host Editor by Afaan Bilal")
-  
-![Host Editor by Afaan Bilal](https://afaanbilal.github.io/screenshots/Host-Editor-About.jpg "Host Editor by Afaan Bilal")
 
 ## Contributing
 All contributions are welcome. Please create an issue first for any feature request
