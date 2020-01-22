@@ -1,11 +1,10 @@
 Host Editor
 ==============
 
-Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
+Author: **[Afaan Bilal](https://afaan.me)**  
 
-##### Project Page: [afaanbilal.github.io/Host-Editor](https://afaanbilal.github.io/Host-Editor)
-##### Download: [Executable, V1.0.0](https://afaanbilal.github.io/Host-Editor/Host-Editor-1.0.0-Executable.zip)
+##### Project Page: [afaan.me/Host-Editor](https://afaan.me/Host-Editor)
+##### Download: [Executable, V1.0.0](https://afaan.me/Host-Editor/Host-Editor-1.0.0-Executable.zip)
 
 ## Introduction
 **Host Editor** is a C# .NET Windows desktop app to easily register custom domains
